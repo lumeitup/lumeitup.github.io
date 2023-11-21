@@ -15,9 +15,3 @@ Every light has a shadow, and in the world of red light therapy, it's no differe
 
 Don't just take our word for it; join the Lumitter™ family and see the difference for yourself. Visit us at [lumitter.com.au](http://lumitter.com.au) and let's set sail towards the horizon of health together! Because with Lumitter™, it's not just therapy; it's a lifestyle.
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
-
